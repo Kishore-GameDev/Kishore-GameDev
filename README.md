@@ -2,7 +2,7 @@
 <h1> Hi there 👋, I'm Kishore </h1>
 I’m a Game Developer with 2 years of experience in Unity and Mixed Reality development. Skilled in gameplay systems, built-in and custom UI, multiplayer networking, and player mechanics.
 
-# Projects
+# Personal Learning Projects
 |Projects Repository|Gameplay Trailer|Playable Link|
 |-------------------|----------------|-------------|
 |[Simple Shooty](https://github.com/Kishore-Karic/Simple-Shooty)|[Trailer](https://youtu.be/6Jqew3rbReQ)|[Play](https://kishore-karic.itch.io/simple-shooty)|
