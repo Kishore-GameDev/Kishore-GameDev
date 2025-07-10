@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kishore-Karic&label=Profile%20views&color=blue&plastic" alt="Kishore-Karic" /> </p>
 <h1> Hi there 👋, I'm Kishore </h1>
-A Game Developer working on Outscal and done couple of Unity Projects
+I’m a Game Developer with 2 years of experience in Unity and Mixed Reality development. Skilled in gameplay systems, built-in and custom UI, multiplayer networking, and player mechanics.
 
 # Projects
 |Projects Repository|Gameplay Trailer|Playable Link|
