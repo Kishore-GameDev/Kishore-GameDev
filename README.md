@@ -5,10 +5,7 @@ I’m a Game Developer with 2 years of experience in Unity and Mixed Reality dev
 # Connect With Me
 # [LinkedIn](https://www.linkedin.com/in/kishore-m-0859b822a/) [Email](mailto:kishorem.gamedeveloper@gmail.com) [Portfolio](https://kishorem-gamedev.vercel.app/) [Itch.io](https://kishore-m.itch.io/)
 
-# GitHub Stats
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kishore-Karic&show_icons=true&locale=en" alt="Kishore-Karic" /></p> <br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-Karic&" alt="Kishore-Karic" /></p> <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore-Karic&show_icons=true&locale=en&layout=compact" alt="kishore-Karic" /></p><!---
+<!---
 Kishore-GameDev/Kishore-GameDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
